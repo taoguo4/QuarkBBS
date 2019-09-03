@@ -1,0 +1,17 @@
+
+rjavascript:S3699"XRemove this use of the output from this function; this function doesn't return anything.(»«¯…
+h"javascript:MultilineStringLiterals"7Use string concatenation rather than line continuation.(ûÏÜşşÿÿÿÿ
+Wjavascript:UnusedVariable"5Remove the declaration of the unused 'form' variable.(¨ËÆJ
+Xjavascript:UnusedVariable"5Remove the declaration of the unused 'util' variable.(¹™˜‰
+[javascript:UnusedVariable"8Remove the declaration of the unused 'laypage' variable.(›ùÖ—
+^javascript:UnusedVariable"6Remove the declaration of the unused 'othis' variable.(×¯€ºùÿÿÿÿ
+_javascript:UnusedVariable"<Remove the declaration of the unused 'asyncRender' variable.(»«¯…
+Xjavascript:S1854">Remove this useless assignment to local variable "asyncRender"(»«¯…
+Pjavascript:S1854"7Remove this useless assignment to local variable "form"(¨ËÆJ
+Qjavascript:S1854"7Remove this useless assignment to local variable "util"(¹™˜‰
+Tjavascript:S1854":Remove this useless assignment to local variable "laypage"(›ùÖ—
+Wjavascript:S1854"8Remove this useless assignment to local variable "count"(ì¨üÿÿÿÿ
+Vjavascript:S1854"7Remove this useless assignment to local variable "zans"(´Ìı˜üÿÿÿÿ
+Vjavascript:S1854"7Remove this useless assignment to local variable "zans"(´Ìı˜üÿÿÿÿ
+Wjavascript:S1854"8Remove this useless assignment to local variable "othis"(×¯€ºùÿÿÿÿ
+Wjavascript:S1854"8Remove this useless assignment to local variable "count"(¥˜Ëúÿÿÿÿ

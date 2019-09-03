@@ -1,0 +1,20 @@
+## JVM configuration
+
+# Xms represents the initial size of total heap space
+# Xmx represents the maximum size of total heap space
+-Xms2G
+-Xmx2G
+
+## GC configuration
+-XX:+UseG1GC
+-XX:InitiatingHeapOccupancyPercent=45
+#-XX:+UseConcMarkSweepGC
+#-XX:CMSInitiatingOccupancyFraction=75
+#-XX:+UseCMSInitiatingOccupancyOnly
+
+# force the server VM (remove on 32-bit client JVMs)
+-server
+
+# generate a heap dump when an allocation from the Java heap fails
+# heap dumps are created in the working directory of the JVM
+-XX:+HeapDumpOnOutOfMemoryError

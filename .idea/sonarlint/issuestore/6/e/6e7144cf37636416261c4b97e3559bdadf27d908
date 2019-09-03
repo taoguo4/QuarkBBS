@@ -1,0 +1,11 @@
+
+vsquid:S1488‘"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+usquid:S1488h"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+vsquid:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+usquid:S1488~"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+ksquid:S00100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þêûÖýÿÿÿÿ
+usquid:S1488G"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+vsquid:S1488ž"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+usquid:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+Zsquid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(Ï±Ó+
+usquid:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥

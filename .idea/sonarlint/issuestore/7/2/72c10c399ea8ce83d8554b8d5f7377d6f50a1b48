@@ -1,0 +1,5 @@
+
+?squid:S1604/"(Make this anonymous inner class a lambda(íÄÜğ
+isquid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜“å£
+}squid:S14884"aImmediately return this expression instead of assigning it to the temporary variable "predicate".(­«°ûÿÿÿÿ
+xsquid:S14888"\Immediately return this expression instead of assigning it to the temporary variable "page".(ÙÜÓºûÿÿÿÿ

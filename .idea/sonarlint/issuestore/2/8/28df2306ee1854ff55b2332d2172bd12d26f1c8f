@@ -1,0 +1,8 @@
+
+xsquid:S1488 "\Immediately return this expression instead of assigning it to the temporary variable "list".(éÖ¦±øÿÿÿÿ
+usquid:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+zsquid:S14884"^Immediately return this expression instead of assigning it to the temporary variable "result".(­˜¡“üÿÿÿÿ
+usquid:S1488?"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+usquid:S1488J"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+fsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆøÈë
+\squid:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(©§ÿçùÿÿÿÿ

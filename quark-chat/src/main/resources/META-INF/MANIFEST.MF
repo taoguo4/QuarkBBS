@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Class-Path: spring-orm-4.3.10.RELEASE.jar hibernate-commons-annotation
+ s-5.0.1.Final.jar tomcat-embed-websocket-8.5.16.jar spring-web-4.3.10
+ .RELEASE.jar hibernate-entitymanager-5.0.12.Final.jar guava-19.0.jar 
+ jcl-over-slf4j-1.7.25.jar spring-boot-starter-tomcat-1.5.6.RELEASE.ja
+ r tomcat-juli-8.5.16.jar spring-tx-4.3.10.RELEASE.jar classmate-1.3.3
+ .jar netty-all-4.1.6.Final.jar spring-boot-starter-web-1.5.6.RELEASE.
+ jar spring-boot-starter-logging-1.5.6.RELEASE.jar nekohtml-1.9.22.jar
+  xml-apis-1.4.01.jar spring-beans-4.3.10.RELEASE.jar jandex-2.0.0.Fin
+ al.jar jackson-databind-2.8.9.jar spring-data-jpa-1.11.6.RELEASE.jar 
+ spring-aspects-4.3.10.RELEASE.jar spring-boot-starter-aop-1.5.6.RELEA
+ SE.jar spring-oxm-4.3.10.RELEASE.jar dom4j-1.6.1.jar hibernate-core-5
+ .0.12.Final.jar xercesImpl-2.11.0.jar spring-boot-starter-data-redis-
+ 1.5.6.RELEASE.jar validation-api-1.1.0.Final.jar spring-data-keyvalue
+ -1.2.6.RELEASE.jar logback-core-1.1.11.jar spring-boot-starter-jdbc-1
+ .5.6.RELEASE.jar tomcat-embed-el-8.5.16.jar spring-context-support-4.
+ 3.10.RELEASE.jar tomcat-jdbc-8.5.16.jar tomcat-embed-core-8.5.16.jar 
+ spring-boot-autoconfigure-1.5.6.RELEASE.jar javax.transaction-api-1.2
+ .jar druid-1.0.29.jar spring-boot-1.5.6.RELEASE.jar spring-boot-start
+ er-1.5.6.RELEASE.jar hibernate-validator-5.3.5.Final.jar spring-boot-
+ starter-cache-1.5.6.RELEASE.jar snakeyaml-1.17.jar spring-webmvc-4.3.
+ 10.RELEASE.jar spring-boot-starter-data-jpa-1.5.6.RELEASE.jar jackson
+ -annotations-2.8.0.jar tools.jar spring-aop-4.3.10.RELEASE.jar spring
+ -expression-4.3.10.RELEASE.jar log4j-over-slf4j-1.7.25.jar fastjson-1
+ .2.23.jar spring-data-redis-1.8.6.RELEASE.jar jboss-logging-3.3.1.Fin
+ al.jar spring-context-4.3.10.RELEASE.jar spring-core-4.3.10.RELEASE.j
+ ar jconsole.jar logback-classic-1.1.11.jar slf4j-api-1.7.25.jar jul-t
+ o-slf4j-1.7.25.jar antlr-2.7.7.jar jackson-core-2.8.9.jar jedis-2.9.0
+ .jar ehcache-2.10.4.jar javassist-3.21.0-GA.jar mysql-connector-java-
+ 5.1.43.jar commons-pool2-2.4.2.jar spring-data-commons-1.13.6.RELEASE
+ .jar hibernate-jpa-2.1-api-1.0.0.Final.jar aspectjweaver-1.8.10.jar s
+ pring-jdbc-4.3.10.RELEASE.jar
+Main-Class: com.quark.chat.ChatApplication
+

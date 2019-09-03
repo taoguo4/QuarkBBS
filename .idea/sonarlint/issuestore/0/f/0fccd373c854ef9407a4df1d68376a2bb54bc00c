@@ -1,0 +1,11 @@
+
+usquid:S1488k"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥£¶•
+Wsquid:S46844"@Replace this persistent entity with a simple POJO or DTO object.(’‘ÿ’
+fsquid:S00100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î±Ûª
+fsquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‘ÿ’
+vsquid:S1488Ü"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥£¶•
+ksquid:S00100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ≥‰∏¸ˇˇˇˇ
+usquid:S1488S"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥£¶•
+[squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(–Ê÷À
+gsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì÷Ê´
+usquid:S14885"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥£¶•

@@ -1,0 +1,6 @@
+
+xsquid:S00116 "[Rename this field "REDIS_RANK_POSTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÇãÔþÿÿÿÿ
+usquid:S14887"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+usquid:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+`squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(ºˆ…”øÿÿÿÿ
+ssquid:S00116#"[Rename this field "REDIS_RANK_USERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‹¿™

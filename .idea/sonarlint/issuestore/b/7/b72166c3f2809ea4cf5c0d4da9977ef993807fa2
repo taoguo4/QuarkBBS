@@ -1,0 +1,4 @@
+
+psquid:S14882"YImmediately return this expression instead of assigning it to the temporary variable "t".(ƒÞ¿‘
+Fsquid:S1481D"/Remove this unused "operations" local variable.(É™±Û
+Usquid:S1854D">Remove this useless assignment to local variable "operations".(É™±Û

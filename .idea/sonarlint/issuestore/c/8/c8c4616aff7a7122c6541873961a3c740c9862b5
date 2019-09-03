@@ -1,0 +1,6 @@
+
+qsquid:S1450."URemove the "future" field and declare it as a local variable in the relevant methods.(›¿®–üÿÿÿÿ
+@squid:S1604’"(Make this anonymous inner class a lambda(Ùðùò
+psquid:UselessImportCheck"GRemove this unused import 'io.netty.channel.group.DefaultChannelGroup'.(ÿ£èÄþÿÿÿÿ
+@squid:S1604‡"(Make this anonymous inner class a lambda(Ùðùò
+^squid:S3457‚"AFormat specifiers should be used instead of string concatenation.(ì„Ûâúÿÿÿÿ

@@ -1,0 +1,5 @@
+
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(ü‡‰ğ8¯Ö×¾-
+_squid:UselessImportCheck"4Remove this unused import 'sun.misc.PostVMInitHook'.(ü‡‰ğ8¯Ö×¾-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÅæˆÔ8¶ëÙ¾-
+zsquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8¶ëÙ¾-

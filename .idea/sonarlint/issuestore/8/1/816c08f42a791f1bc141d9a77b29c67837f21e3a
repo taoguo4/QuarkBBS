@@ -1,0 +1,5 @@
+
+usquid:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "result".(´£¦¥
+fsquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ý˜Ì
+Wsquid:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(±Ý˜Ì
+`squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(úÊðéþÿÿÿÿ

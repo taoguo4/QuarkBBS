@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="quark-portal:war">
+    <output-path>$PROJECT_DIR$/quark-portal/target</output-path>
+    <root id="archive" name="quark-portal-1.5.12.RELEASE.war">
+      <element id="artifact" artifact-name="quark-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

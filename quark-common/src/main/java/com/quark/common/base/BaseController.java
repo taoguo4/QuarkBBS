@@ -7,8 +7,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @Author LHR
- * Create By 2017/8/13
+ * @Author taoguo4
+ * Create By 2019/19/39
  */
 public class BaseController {
 
